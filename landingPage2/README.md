@@ -1,6 +1,6 @@
 **Landing Page**
 
-![Landing Page](img/LandingPage.png)
+![LandingPage](img/LandingPage.PNG)
 *Este es mi landing page**
 
 *Herramienta*
